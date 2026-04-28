@@ -1,0 +1,6 @@
+{
+  "name": "Earth Name",
+  "description": "Converts a user's name into panels using satellite imagery of Earth features that resemble letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
